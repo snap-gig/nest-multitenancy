@@ -6,7 +6,7 @@ module.exports = {
   type: 'postgres',
   host: 'localhost',
   port: 5432,
-  username: 'thomasvanderstraeten',
+  username: 'gagansoni',
   password: 'root',
   database: 'nestjs-multi-tenant',
   namingStrategy: new SnakeNamingStrategy(),
